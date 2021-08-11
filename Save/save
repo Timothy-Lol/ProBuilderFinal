@@ -1,0 +1,45 @@
+player.x = 750;
+    player.y = 80;
+
+    laser1.x = 535;
+    laser1.y = 480;
+    laser2.x = 462;
+    laser2.y = 445;
+    laser3.x = 463;
+    laser3.y = 650;
+
+    button1.x = 760;  
+    button1.y = 750;
+    button2.x = 500;
+    button2.y = 60;  
+    button3.x = 350;
+    button3.y = 40;  
+    button4.x = 50;
+    button4.y = 780;
+    
+    button1.shapeColor = "blue"
+    button2.shapeColor = "blue"
+    button3.shapeColor = "blue"
+    button4.shapeColor = "yellow"
+
+    laser1.velocityX = 0;
+    laser2.velocityX = 0;
+    laser3.velocityX = 0;
+
+    npc1.x = 350;
+    npc1.y = 80;
+    npc2.x = 500;
+    npc2.y = 150;
+    npc3.x = 270;
+    npc3.y = 720;
+    npc4.x = 145;
+    npc4.y = 350;
+
+    npc1.velocityX = -2;
+    npc2.velocityX = -2;
+    npc3.velocityY = -2;
+    npc4.velocityX = -3;
+
+    door.velocityX = 0;
+    door.x = 65;
+    door.y = 650;
